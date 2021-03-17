@@ -8,6 +8,7 @@ The purpose of this analysis is to help Louise understand how launch dates and t
 Overall, Louise should start her Kickstarter campaign in the summer, around May or June, and have a goal under $5,000. Challenges that I encountered in this module were with the box and whisker plot. Even with filtering everything according to the instructions, I struggled to have a correct visualization. Additionally, I struggled with the COUNTIFS() function. I had to research and play around with the function to come up with the correct formula.
 ### Analysis of Outcomes Based on Launch Date
 Based on the data, I discovered that based on Launch Date, the most successful months for Theater campaigns is during the summer months, May through August. 
+
 ![Theater_Outcomes_vs_Launch.png](Resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 Louise should aim to have a Kickstarter goal under $5,000, and preferably between $1,000 and $5,000. In the data, these ranges show to be the most successful.
